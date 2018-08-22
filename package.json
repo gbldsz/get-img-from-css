@@ -1,6 +1,6 @@
 {
   "name": "get-img-from-css",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "get img from css ",
   "main": "index.js",
   "scripts": {
